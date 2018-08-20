@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function add(a,b){
   return a + b;
 }
@@ -22,3 +23,7 @@ function add(a,b){
  function preserveDecimal(n){
   return parseFloat(n);
 }
+=======
+add('2', 10)
+subtract('15', 10)
+>>>>>>> 6477d21bb65993be7418db2404069e856d45fa59
